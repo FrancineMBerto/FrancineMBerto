@@ -13,7 +13,7 @@
   <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FrancineMBerto&layout=compact&hide_border=true&title_color=7ce6b7&text_color=cac1fe&bg_color=0d1117" />
 </div>
 
-<br><br><br><br>
+<br>
 
 
 
@@ -23,8 +23,7 @@
 <a href="https://www.linkedin.com/in/francinemberto/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%23fdd7e4?style=for-the-badge&logo=linkedin&logoColor=white" style="border-radius: 30px" target="_blank"></a> 
  </div>
 
-<br><br><br><br>
-
+<br>
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=FrancineMBerto&bg_color=0d1117&color=563d7c&line=7ce6b7&point=cac1fe&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 <br><br>
