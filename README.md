@@ -24,8 +24,8 @@
 <a href="https://www.linkedin.com/in/francinemberto/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%23fdd7e4?style=for-the-badge&logo=linkedin&logoColor=white" style="border-radius: 30px" target="_blank"></a> 
  </div>
  <br>
-## Oque estou aprendendo 
- [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=7ce6b7&size=35&center=true&vCenter=true&width=1000&lines=O+que+estou+Aprendendo+:%29)](https://git.io/typing-svg)
+
+ [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=cac1fe&size=35&center=true&vCenter=true&width=1000&lines=O+que+estou+Aprendendo+:%29)](https://git.io/typing-svg)
 
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
