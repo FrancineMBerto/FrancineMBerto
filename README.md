@@ -26,7 +26,7 @@
  <br>
  <br>
 
- [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=cac1fe&size=35&center=true&vCenter=true&width=1000&lines=O+que+estou+Aprendendo)](https://git.io/typing-svg)
+ [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=cac1fe&size=20&center=false&vCenter=true&width=500&lines=Tecnologias+que+estou+aprendendo:)](https://git.io/typing-svg)
 
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
