@@ -8,10 +8,7 @@
 <br>
 
 <!--Minhas Estatísticas FMB-->
-<div align="center">  
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=FrancineMBerto&show_icons=true&count_private=true&hide_border=true&title_color=cac1fe&icon_color=7ce6b7&text_color=cac1fe&bg_color=0d1117" alt="Minhas Estatísticas" /> 
-  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FrancineMBerto&layout=compact&hide_border=true&title_color=7ce6b7&text_color=cac1fe&bg_color=0d1117" />
-</div>
+
 
 <br>
 
