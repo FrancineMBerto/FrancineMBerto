@@ -19,7 +19,7 @@
 
 <!--Meus links FMB-->
 <div align="center"> 
-<a href="https://www.instagram.com/francine_martim/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23cac1fe?style=for-the-badge&logo=instagram&logoColor=white"</a>
+
 <a href = "mailto:francine.martim09@gmail.com"> <img src="https://img.shields.io/badge/-Gmail-%237ce6b7?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 <a href="https://www.linkedin.com/in/francinemberto/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%23fdd7e4?style=for-the-badge&logo=linkedin&logoColor=white" style="border-radius: 30px" target="_blank"></a> 
  </div>
