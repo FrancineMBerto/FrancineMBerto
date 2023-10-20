@@ -7,7 +7,20 @@
 #### 📗 Estou no meu sétimo mês de estudo na área de desenvolvimento de software com foco em Back-End.
 #### 💜 Amo a tecnologia desde muito jovem, sempre tive apêgo e fiz disso minha realidade cotidiana. Criar servidores, utilizar banco de dados, aprender mais e melhor, aperfeiçoar, tentar até acertar. 
 #### 👩🏻‍💻 Meu objetivo profissional é ter plenos conhecimentos na minha stack, conhecer muitas linguagens de programação e claro, estar em uma organização que compartilha dos meus valores e que na sua essência tenha o mesmo desejo de crescer, especializar, inovar e impactar.
+
 <br>
+
+<!-- Tecnologias que estou aprendendo FMB-->
+<div align="center"> 
+ 
+
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 
 <br>
 
@@ -28,7 +41,8 @@
 <br>
 
 <!-- Tecnologias que estou aprendendo FMB-->
- [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=cac1fe&size=20&center=false&vCenter=true&width=500&lines=Tecnologias+que+estou+aprendendo:)](https://git.io/typing-svg)
+<div align="center"> 
+ 
 
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
