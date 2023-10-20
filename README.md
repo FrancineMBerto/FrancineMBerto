@@ -1,8 +1,6 @@
 <!--Imagem top -->
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=cac1fe&height=120&section=header"/>
 
-<!--Apresentação FMB
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=7ce6b7&size=35&center=true&vCenter=true&width=1000&lines=OLÁ!;+Meu+nome+é+Francine+Martim+Berto;Tenho+23+anos+de+idade;Sou+uma+estudante+de+desenvolvimento+de+Software;Seja+Bem+Vindo!+:%29)](https://git.io/typing-svg)-->
 
 ## Olá, me chamo Francine Martim Berto 👋
 <br>
