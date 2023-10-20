@@ -6,6 +6,7 @@
 
 ## Olá, me chamo Francine Martim Berto 👋
 <br>
+
 #### 📗 Estou no meu sétimo mês de estudo na área de desenvolvimento de software com foco em Back-End.
 #### 💜 Amo a tecnologia desde muito jovem, sempre tive apêgo e fiz disso minha realidade cotidiana. Criar servidores, utilizar banco de dados, aprender mais e melhor, aperfeiçoar, tentar até acertar. 
 #### 👩🏻‍💻 Meu objetivo profissional é ter plenos conhecimentos na minha stack, conhecer muitas linguagens de programação e claro, estar em uma organização que compartilha dos meus valores e que na sua essência tenha o mesmo desejo de crescer, especializar, inovar e impactar.
