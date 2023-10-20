@@ -1,19 +1,15 @@
 <!--Imagem top -->
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=cac1fe&height=120&section=header"/>
 
-<!--Apresentação FMB-->
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=7ce6b7&size=35&center=true&vCenter=true&width=1000&lines=OLÁ!;+Meu+nome+é+Francine+Martim+Berto;Tenho+23+anos+de+idade;Sou+uma+estudante+de+desenvolvimento+de+Software;Seja+Bem+Vindo!+:%29)](https://git.io/typing-svg)
+<!--Apresentação FMB
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=7ce6b7&size=35&center=true&vCenter=true&width=1000&lines=OLÁ!;+Meu+nome+é+Francine+Martim+Berto;Tenho+23+anos+de+idade;Sou+uma+estudante+de+desenvolvimento+de+Software;Seja+Bem+Vindo!+:%29)](https://git.io/typing-svg)-->
 
+## Olá, me chamo Francine Martim Berto 👋
 <br>
-<!--
-<div align="center">  
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=FrancineMBerto&show_icons=true&count_private=true&hide_border=true&title_color=cac1fe&icon_color=7ce6b7&text_color=cac1fe&bg_color=0d1117" alt="Minhas Estatísticas" /> 
-  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FrancineMBerto&layout=compact&hide_border=true&title_color=7ce6b7&text_color=cac1fe&bg_color=0d1117" />
-</div>  -->
+#### 📗 Estou no meu sétimo mês de estudo na área de desenvolvimento de software com foco em Back-End.
+#### 💜 Amo a tecnologia desde muito jovem, sempre tive apêgo e fiz disso minha realidade cotidiana. Criar servidores, utilizar banco de dados, aprender mais e melhor, aperfeiçoar, tentar até acertar. 
+#### 👩🏻‍💻 Meu objetivo profissional é ter plenos conhecimentos na minha stack, conhecer muitas linguagens de programação e claro, estar em uma organização que compartilha dos meus valores e que na sua essência tenha o mesmo desejo de crescer, especializar, inovar e impactar.
 <br>
-
-<!--Minhas Estatísticas FMB-->
-
 
 <br>
 
