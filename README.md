@@ -13,10 +13,13 @@
  👩🏻‍💻 Meu objetivo profissional é ter plenos conhecimentos na minha stack, conhecer muitas linguagens de programação e claro, estar em uma organização que compartilha dos meus valores e que na sua essência tenha o mesmo desejo de crescer, especializar, inovar e impactar.
 
 <br>
+<div align="center">  
+ 
+### Eu estou estudando...🧩
 
 <!-- Tecnologias que estou aprendendo FMB-->
-<div align="center"> 
- 
+
+ <br>
 
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
@@ -46,17 +49,6 @@
 
 <!-- Tecnologias que estou aprendendo FMB-->
 <div align="center"> 
- 
-
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-
-<br><br>
 
 <!--Imagem bot FMB-->
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=cac1fe&height=120&section=footer"/>
