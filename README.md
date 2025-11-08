@@ -1,16 +1,18 @@
 <!--Imagem top -->
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=cac1fe&height=120&section=header"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=fff099&height=120&section=header"/>
 
 
 # Olá, me chamo Francine Martim Berto 👋
 
 ### Sobre mim
 
- 📗 Estou no meu sétimo mês de estudo na área de desenvolvimento de software com foco em Back-End.
+ ✨ Sou estudante de Análise e Desenvolvimento de Sistemas, atualmente no segundo semestre.
+ 💡 Apaixonada por tecnologia e pelo aprendizado constante na área da programação.
+ 💫 Atuo profissionalmente na área de desenvolvimento, buscando evoluir a cada projeto.
  
- 💜 Amo a tecnologia desde muito jovem, sempre tive apêgo e fiz disso minha realidade cotidiana. Criar servidores, utilizar banco de dados, aprender mais e melhor, aperfeiçoar, tentar até acertar. 
+ 💛 Amo a tecnologia desde muito jovem, sempre tive apêgo e fiz disso minha realidade cotidiana. Criar servidores, utilizar banco de dados, aprender mais e melhor. 
  
- 👩🏻‍💻 Meu objetivo profissional é ter plenos conhecimentos na minha stack, conhecer muitas linguagens de programação e claro, estar em uma organização que compartilha dos meus valores e que na sua essência tenha o mesmo desejo de crescer, especializar, inovar e impactar.
+ 🌻 Meu objetivo profissional é ter plenos conhecimentos na minha stack, conhecer muitas linguagens de programação e claro, estar em uma organização que compartilha dos meus valores e que na sua essência tenha o mesmo desejo de crescer, especializar, inovar e impactar.
 
 <br>
 <div align="center">  
@@ -42,7 +44,7 @@
  <br>
 
 <!--Gráfico de atividade FMB-->
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=FrancineMBerto&bg_color=0d1117&color=563d7c&line=7ce6b7&point=cac1fe&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=FrancineMBerto&bg_color=0d1117&color=ffffcc&line=ffca1a&point=fff099&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 <br>
 <br>
@@ -51,6 +53,6 @@
 <div align="center"> 
 
 <!--Imagem bot FMB-->
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=cac1fe&height=120&section=footer"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=fff099&height=120&section=footer"/>
 <br><br>
 
