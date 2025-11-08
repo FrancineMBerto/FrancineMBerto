@@ -7,7 +7,9 @@
 ### Sobre mim
 
  ✨ Sou estudante de Análise e Desenvolvimento de Sistemas, atualmente no segundo semestre.
+ 
  💡 Apaixonada por tecnologia e pelo aprendizado constante na área da programação.
+ 
  💫 Atuo profissionalmente na área de desenvolvimento, buscando evoluir a cada projeto.
  
  💛 Amo a tecnologia desde muito jovem, sempre tive apêgo e fiz disso minha realidade cotidiana. Criar servidores, utilizar banco de dados, aprender mais e melhor. 
