@@ -6,7 +6,7 @@
 
 ### Sobre mim
 
- ✨ Sou estudante de Análise e Desenvolvimento de Sistemas, atualmente no segundo semestre.
+ ✨ Sou estudante de Análise e Desenvolvimento de Sistemas, atualmente no terceiro semestre.
  
  💡 Apaixonada por tecnologia e pelo aprendizado constante na área da programação.
  
